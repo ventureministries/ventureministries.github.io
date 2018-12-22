@@ -1143,6 +1143,15 @@ a:hover {
     .services .bord {
         display: none;
     }
+
+    .header .caption h1 {
+        margin: 10px 0;
+        font-size: 2em;
+    }
+
+    .col-md-4 {
+        padding-left: 30px;
+    }
 }
 
 @media screen and (max-width: 767px) {
@@ -1153,6 +1162,7 @@ a:hover {
     .mb-sm30 {
         margin-bottom: 30px;
     }
+
 }
 
 /*# sourceMappingURL=style.css.map */
